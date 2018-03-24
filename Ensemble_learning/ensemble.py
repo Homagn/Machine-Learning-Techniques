@@ -4,6 +4,12 @@ Created on Sat Mar 24 12:49:30 2018
 
 @author: Homagni
 """
+'''
+REFERECES USED:
+    http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_hastie_10_2.html#sphx-glr-auto-examples-ensemble-plot-adaboost-hastie-10-2-py
+    http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py
+    
+'''
 print(__doc__)
 
 import numpy as np
